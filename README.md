@@ -44,3 +44,4 @@ AI-powered Streamlit app that extracts text from PDFs, generates MCQ and True/Fa
 ---
 
 Feel free to customize or contribute!
+### Live Demo: https://pdf-ai-assistant-jo9dwti93d9fs8wsqhpk3y.streamlit.app/
